@@ -40,7 +40,7 @@ def write():
     #define writer
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
     #Write
-        writer.writerow({'Numbers': Numbers, 'Words':Words, 'Definitions':Definitions, 'Citations':Citations, 'Naturals':Naturals})
+        writer.writerow({'Numbers':Numbers, 'Words':Words, 'Definitions':Definitions, 'Citations':Citations, 'Naturals':Naturals})
 
 #Button to run write
 b1 = Button(master, text = 'Enter Information', relief = 'groove', width = 25, command=write)
