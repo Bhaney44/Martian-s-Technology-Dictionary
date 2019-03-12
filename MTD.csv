@@ -1,5 +1,5 @@
 Numbers,Words,Definitions,Citations
-0,Artificial Intelligence,A machine with the ability to replicate cognitive activities associated with human thought.,"The Perils & Promises of Artificial General Intelligence, 45 J. Legis. __ (2019) (Forthcoming)."
+0,Artificial Intelligence,A machine with the ability to replicate cognitive activities associated with human thought.,"Brian S. Haney, The Perils & Promises of Artificial General Intelligence, 45 J. Legis. __ (2019) (Forthcoming)."
 1,Natural Language Processing,The study of linguistics from a mathematical or computational perspective.,"Noam Chomsky, Syntactic Structures, 11 (Mouton & Co 1957)."
 2,Deep Learning,A sub-set of machine learning focusing on multi-layered neural networks with the goal of identifying associative properties.,"Ethem Alapaydin, Machine Learning, 99 (The MIT Press, 2016)."
 3,Gradient Descent,An iterative optimization algorithm for finding the minimum value of a function.,"Alex Kendall, et. al., Learning to Drive in A Day, 2 (2018) https://arxiv.org/abs/1807.00412. "
@@ -283,3 +283,9 @@ Numbers,Words,Definitions,Citations
 283,Thrust to Weight Ratio,Expresses the acceleration that an engine is capable of giving to its own loaded propulsion system mass.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
 284,Specific Impulse,Represents the thrust per unit propellant weight flow rate.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
 285,Propulsion,"Achieved by applying force to a vehicle, accelerating or maintating a velocity against a resting force.","George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+286,Associative Learning,Broad term for decision-making processes influenced by reward and punishment.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
+287,Non-associative learning,Learning which does not require associations to link stimuli and responses together.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
+288,Priming,Prior exposure to a stimulus affects subsequent algorithmic identification and classification.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
+289,Metacognition,Thinking about thinking.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
+290,Human-Robot Interaction,A multidisciplinary field studying communication between people and robots.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
+291,Working Memory,A mechanism for temporary storage of information relating to a present task.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
