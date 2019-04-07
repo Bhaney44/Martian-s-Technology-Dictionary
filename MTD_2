@@ -26,6 +26,12 @@ Rockets
 313,Underexpanded Nozzle,A nozzle discharging gases at exit pressures greater than external pressure because the exit area is too small for optimum expansion.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
 314,Overexpanded nozzle,A nozzle discharging gases at a lower pressure than the atmosphere because the discharge area is too large for optimum expansion.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
 315,Dewetting Strain,The strain where incipient failure of interface bonds between small solid oxidizer crystals and rubbery binder occurs.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+328,Sea Level,Hypothetical surface typically approximated by a reference ellipsoid.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 94 (Dover 1971)."
+325,Station Coordinates,The position of a tracking or launch site on the surface of earth.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 93 (Dover 1971)."
+326,Geocentric Latitude,The angle between the equatorial plane and the radius from the geocenter.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 94 (Dover 1971)."
+327,Gravitational Constant,An empirical physical constant describing gravitational effects.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
+324,Ballistic Missile Trajectory,"A process analyzed in three parts. First, the powered flight portion lasts from launch to thrust cutoff or burnout. Second, the free-flight portion, which constitutes most of the trajectory. Third, the re-entry portion, which begins when atmospheric drag becomes a significant force in the missile’s path to landing.","Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
+321,True Velocity,"Velocity relative to launch point, plus the initial eastward velocity of the launch site, because of Earth’s rotation.","Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 306 (Dover 1971)."
 
 --------------------
 Quantum Computing
@@ -68,6 +74,11 @@ Quantum Computing
 31,Path Integral Formulation,Generalizes the action theory of classical mechanics.,"R.P. Feynman and A.R. Hibbs, Quantum Mechanics and Path Integrals (McGrawHill, New York, 1965)."
 30,Eigenvector,"In linear algebra, an eigenvector or characteristic vector of a linear transformation is a non-zero vector that changes by only a scalar factor when that linear transformation is applied to.","Eleanor Rieffel, Wolfgang Polak, Quantum Computing (The MIT Press 2014)."
 68,Superposition,The property allowing a single quantum particle to exist in two distinct points in space-time simultaneously.,"Eleanor Rieffel, Wolfgang Polak, Quantum Computing (The MIT Press 2014)."
+316,Eigenstate,A dynamic quantum mechanical state whose wave function is an eigenvector corresponding to a physical quantity.,"Leonard Susskind, Art Friedman, Quantum Mechanics (Basic Books 2014)."
+317,Complex Conjugate,"A number with an equal real part and an imaginary part equal in magnitude, but the imaginary number is opposite in sign. ","Leonard Susskind, Art Friedman, Quantum Mechanics (Basic Books 2014)."
+318,Initial Hamiltonian,The lowest energy state – where all qubits are in superposition of states.,"D-Wave, Getting Started with the D-Wave System, User Manual (2018) https://docs.dwavesys.com/docs/latest/_downloads/09-1076A-T_GettingStarted.pdf."
+319,Final Hamiltonian,The lowest energy state to answer the problem posed.,"D-Wave, Getting Started with the D-Wave System, User Manual (2018) https://docs.dwavesys.com/docs/latest/_downloads/09-1076A-T_GettingStarted.pdf."
+320,Complex Plane,Two-dimensional representation of complex numbers where the real number appears on the x axis and the imaginary number appears on the y axis.,"Leonard Susskind, Art Friedman, Quantum Mechanics (Basic Books 2014)."
 
 --------------------
 Machine Learning
@@ -204,6 +215,14 @@ Physics
 34,Schrödinger Equation,Mathematical equation describing changes over time of a physical system in which quantum effects are significant.,"Eleanor Rieffel, Wolfgang Polak, Quantum Computing (The MIT Press 2014)."
 33,Quantum Mechanics,The branch of mechanics dealing with mathematical descriptions of the motion and interaction of subatomic particles.,"R.P. Feynman and A.R. Hibbs, Quantum Mechanics and Path Integrals (McGrawHill, New York, 1965)."
 32,Hamiltonian,Characterizes the total energy of the system under consideration.,"Perpelitsa, Dennis V., Path Integrals in Quantum Mechanics, MIT Department of Physics, http://web.mit.edu/dvp/www/Work/8.06/dvp-8.06-paper.pdf."
+329,Apparent Solar Day,The time between two successive upper transits of the sun across the local meridian.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 101 (Dover 1971)."
+330,Sidereal Day,The time required for the earth to rotate once on its axis relative to the starts.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 101 (Dover 1971)."
+328,Sea Level,Hypothetical surface typically approximated by a reference ellipsoid.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 94 (Dover 1971)."
+325,Station Coordinates,The position of a tracking or launch site on the surface of earth.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 93 (Dover 1971)."
+326,Geocentric Latitude,The angle between the equatorial plane and the radius from the geocenter.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 94 (Dover 1971)."
+327,Gravitational Constant,An empirical physical constant describing gravitational effects.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
+322,Law of Cosine,Ratio of opposite site to hypotenuse.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
+323,Law of Cosine,Ration of adjacent side to hypotenuse.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
 
 --------------------
 Math
@@ -231,6 +250,9 @@ Math
 218,Loss Function,Measure of performance guiding the update of parameters.,"Gradient Descent, https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html."
 251,Discrete Optimization,The objective of functions defined over search spaces consisting of a finite set of objects.,"D-Wave, Background (2018) https://docs.dwavesys.com/docs/latest/c_qpu_0.html#background."
 45,Euler-Maruyama Method,A method for the approximate numerical solution of a stochastic differential equation.,"Maziar Raissi, Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Differential Equations (Cornell University Library 2018) https://arxiv.org/abs/1804.07010."
+322,Law of Cosine,Ratio of opposite site to hypotenuse.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
+323,Law of Cosine,Ration of adjacent side to hypotenuse.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
+317,Complex Conjugate,"A number with an equal real part and an imaginary part equal in magnitude, but the imaginary number is opposite in sign. ","Leonard Susskind, Art Friedman, Quantum Mechanics (Basic Books 2014)."
 
 ---------------------
 Computing
