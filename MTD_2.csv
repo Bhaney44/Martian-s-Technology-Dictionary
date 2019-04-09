@@ -144,7 +144,7 @@ Machine Learning
 309,Collision-free Path Finding,identifies an obstacle-free path from a starting position to a distant goal while avoiding obstacles.,"Aleksandra Faust, Oscar Ramirez, PRM-RL: Long-range Robotic Navigation Tasks Combining Reinforcement Learning and Sampling-based Planning (2018) https://arxiv.org/abs/1710.03937v2."
 310,Local Robot Control,Produces feasible controls the robot executes to perform the task while both satisfying task constraints and staying near the obstacle-free path.,"Aleksandra Faust, Oscar Ramirez, PRM-RL: Long-range Robotic Navigation Tasks Combining Reinforcement Learning and Sampling-based Planning (2018) https://arxiv.org/abs/1710.03937v2."
 311,Configuration Space,The space of all possible robot configurations.,"Aleksandra Faust, Oscar Ramirez, PRM-RL: Long-range Robotic Navigation Tasks Combining Reinforcement Learning and Sampling-based Planning (2018) https://arxiv.org/abs/1710.03937v2."
-
+331,Transformer,A process of flowing through sequential states using an encoder and a decoder.,"Ashish Vaswani, et. al., Attention Is All You Need, Google Brain (2017)."
 
 Physics
 
