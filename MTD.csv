@@ -328,3 +328,7 @@ Numbers,Words,Definitions,Citations
 328,Sea Level,Hypothetical surface typically approximated by a reference ellipsoid.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 94 (Dover 1971)."
 329,Apparent Solar Day,The time between two successive upper transits of the sun across the local meridian.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 101 (Dover 1971)."
 330,Sidereal Day,The time required for the earth to rotate once on its axis relative to the starts.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 101 (Dover 1971)."
+331,Transformer,A process of flowing through sequential states using an encoder and a decoder.,"Ashish Vaswani, et. al., Attention Is All You Need, Google Brain (2017)."
+333,Conditional Probability Distribution,An array of information representing a stochastic process.,"Alec Radford, et. al., Language Models are Unsupervised Multitask Learners, OpenAI (2019)."
+334,BERT,Computational structure for natural language process using Bidirectional Encoder Representations from Transformers.,"Google AI Blog, Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing (November 2, 2018)."
+335,Masked language model,Model randomly masking tokens from an input where the output objective is to predict the original vocabular id of the masked word based on context.,"Jacob Delvin, BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding, Google AI Language (2018)."
