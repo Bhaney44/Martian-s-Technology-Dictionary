@@ -1,4 +1,4 @@
-Rockets
+x,Rockets,x,x
 
 295,Spectrometers,Provides a standard for improving predictive models and entry vehicle designs by gathering signals.,"NASA, Mars Science Laboratory, Spectrometers (2019) https://marsmobile.jpl.nasa.gov/msl/mission/instruments/spectrometers/."
 294,Radiometer,Measure heating over a wide wavelength range or over narrow-wavelength bands.,"NASA Jet Propulsion Laboratory, California Institute of Technology, Radiometer (2019) https://sealevel.jpl.nasa.gov/technology/technologyinstrumentdescription/instrumentdescriptionradiometer/."
@@ -31,8 +31,16 @@ Rockets
 327,Gravitational Constant,An empirical physical constant describing gravitational effects.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
 324,Ballistic Missile Trajectory,"A process analyzed in three parts. First, the powered flight portion lasts from launch to thrust cutoff or burnout. Second, the free-flight portion, which constitutes most of the trajectory. Third, the re-entry portion, which begins when atmospheric drag becomes a significant force in the missile’s path to landing.","Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
 321,True Velocity,"Velocity relative to launch point, plus the initial eastward velocity of the launch site, because of Earth’s rotation.","Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy, 306 (Dover 1971)."
+339,Configuration,The shape of initial burning surfaces of a grain operating inside a motor.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+340,Cylindrical Grain,A grain in which the internal cross section is constant along the axis.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+341,Progressive Burning,"A grain in which thrust, pressure, and burning surface area increase with time.","George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+342,Regressive Burning,"A grain in which thrust, pressure, and burning surface are decrease with time.","George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+343,Neutral Burning,"A grain in which thrust, pressure, and burning surface area remain relatively constant with time.","George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+344,Sliver,Unburned propellant residue expelled through the nozzle at the time of web burnout.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+345,Erosive Burning,Refers to any increase in propellant burning rate caused by high-velocity flow of combustion gases across the burning propellant surface.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
+346,Plateau Propellant,"Exhibit relatively constant burning rate over a limited pressure range, minimizing the effects of changes in initial temperature on motor operation.","George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
 
-Quantum Computing
+x,Quantum Computing,x,x
 
 304,Grover’s Algorithm,Performs unstructured quantum searches for particular items.,"R.D. Rosenwald, Applications of Quantum Algorithms to Partially Observable Markov Decision Processes, Raytheon Missile Systems."
 240,Unitary Operator,A function describing the evolution of quantum systems relating to the sum of probabilities of all possible outcomes.,"Leonard Susskind, Art Friedman, Quantum Mechanics, 94 (Basic Books 2014)."
@@ -78,7 +86,7 @@ Quantum Computing
 319,Final Hamiltonian,The lowest energy state to answer the problem posed.,"D-Wave, Getting Started with the D-Wave System, User Manual (2018) https://docs.dwavesys.com/docs/latest/_downloads/09-1076A-T_GettingStarted.pdf."
 320,Complex Plane,Two-dimensional representation of complex numbers where the real number appears on the x axis and the imaginary number appears on the y axis.,"Leonard Susskind, Art Friedman, Quantum Mechanics (Basic Books 2014)."
 
-Machine Learning
+x,Machine Learning,x,x
 
 298,Partially Observable Markov Decision Process,Physically realistic generalization of a Markov Decision Process.,"R.D. Rosenwald, Applications of Quantum Algorithms to Partially Observable Markov Decision Processes, Raytheon Missile Systems."
 291,Working Memory,A mechanism for temporary storage of information relating to a present task.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
@@ -144,7 +152,7 @@ Machine Learning
 311,Configuration Space,The space of all possible robot configurations.,"Aleksandra Faust, Oscar Ramirez, PRM-RL: Long-range Robotic Navigation Tasks Combining Reinforcement Learning and Sampling-based Planning (2018) https://arxiv.org/abs/1710.03937v2."
 331,Transformer,A process of flowing through sequential states using an encoder and a decoder.,"Ashish Vaswani, et. al., Attention Is All You Need, Google Brain (2017)."
 
-Physics
+x,Physics,x,x
 
 289,Metacognition,Thinking about thinking.,"Iuliia Kotseruba, John K. Tsotsos, A Review of 40 Years in Cognitive Architectures Research Core Cognitive Abilities and Practical Application (2018) https://arxiv.org/abs/1610.08602v3."
 279,Momentum,A vector quantity defined as the product of mass times its vector velocity.,"George P. Sutton, Oscar Biblarz, Rocket Propulsion Elements (Wiley 2017)."
@@ -224,7 +232,7 @@ Physics
 337,Magnetic Susceptibility,Describes the rate of change of the average magnetization with the applied field.,"R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge Press 2017)."
 338,Perron-Frobenius Theorem,A square matrix with positive non-zero entries will have a non-defenerate largest eigenvalue and a corresponding eigenvector with strictly positive components.,"R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge Press 2017)."
 
-Math
+x,Math,x,x
 
 48,Partial Derivative,A partial differential equation is a differential equation containing unknown multivariable functions and their partial derivatives.,"Maziar Raissi, Forward-Backward Stochastic Neural Networks: Deep Learning of High-dimensional Partial Differential Equations (Cornell University Library 2018) https://arxiv.org/abs/1804.07010."
 51,Derivative,An expression representing the rate of change of a function with respect to an independent variable.,"Richard S. Sutton, Andrew G. Barto, Reinforcement Learning: An Introduction (MIT Press 2017)."
@@ -253,7 +261,7 @@ Math
 323,Law of Cosine,Ration of adjacent side to hypotenuse.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
 317,Complex Conjugate,"A number with an equal real part and an imaginary part equal in magnitude, but the imaginary number is opposite in sign. ","Leonard Susskind, Art Friedman, Quantum Mechanics (Basic Books 2014)."
 
-Computing
+x,Computing,x,x
 
 302,NP,The computational complexity class Nondeterministic Polynomial.,"R.D. Rosenwald, Applications of Quantum Algorithms to Partially Observable Markov Decision Processes, Raytheon Missile Systems."
 252,Bigraph,A set of graph vertices with two distinct sets.,"Bipartite Graph, Wolfram MathWorld, http://mathworld.wolfram.com/BipartiteGraph.html, 2019."
@@ -292,7 +300,7 @@ Computing
 18,Parameter,Variables passed to a function.,"Python, Documentation, Glossary (2018) https://docs.python.org/2/glossary.html#term-parameter."
 132,Database,Software for storing and processing digitally represented information efficiently.,"Ethem Alapaydin, Machine Learning (The MIT Press, 2016)."
 
-Computer Vision
+x,Computer Vision,x,x
 
 190,LIDAR,LIDAR is a type of optical radar sensor consisting of a transmitter and a receiver.,"Matthew J. McGill, LIDAR Remote Sensing, NASA Technical Reports Server (NTRS) (2002)."
 189,Point Cloud,A representation of data points in multi-dimensional space.,"Gaetan Pennecot, et. al., Devices and Methods For a Rotating LIDAR Platform With Shared Transmit/Receive Path, Google, Inc., No: 13/971,606, (Aug. 20, 2013)."
@@ -303,7 +311,7 @@ Computer Vision
 212,Max-Pooling,A process of pooling using the maximum value of the neurons in the previous layer.,"Convolutional Neural Networks, Stanford, http://cs231n.github.io/convolutional-networks/#pool."
 211,Pooling,A process of combining values of neurons in previous layer with a neuron in a later layer.,"Convolutional Neural Networks, Stanford, http://cs231n.github.io/convolutional-networks/#pool."
 
-Artificial Intelligence
+x,Artificial Intelligence,x,x
 
 0,Artificial Intelligence,A machine with the ability to replicate cognitive activities associated with human thought.,"Brian S. Haney, The Perils & Promises of Artificial General Intelligence, 45 J. Legis. __ (2019) (Forthcoming)."
 1,Natural Language Processing,The study of linguistics from a mathematical or computational perspective.,"Noam Chomsky, Syntactic Structures, 11 (Mouton & Co 1957)."
@@ -318,7 +326,7 @@ Artificial Intelligence
 194,Intelligence Explosion,A hypothesized even in which an AI repidly improves from relatively modest to a superhuman level of intelligence.,"Nick Bostrom, Superintelligence: Paths, Dangers, Strategies (Oxford University Press 2017)."
 199,Whole Brain Emulation,Machine intelligence created by copying the computational structure of the human brain.,"Nick Bostrom, Superintelligence: Paths, Dangers, Strategies (Oxford University Press 2017)."
 
-Naturual Language Processing
+x,Naturual Language Processing,x,x
 
 52,First-Order Logic,A form of symbolized reasoning used in computational linguistics.,"Steven Bird, et. al., Natural Language Processing with Python, (O’Reily, 2009)."
 38,Word Embedding,A distributional Vector generally flowing from the distributional hypothesis.,"Tom Young et. al., Recent Trends in Deep Learning Based Natural Language Processing, Cornell University Library (Computational Intelligence Magazine 2018) https://arxiv.org/abs/1708.02709v5."
@@ -327,7 +335,7 @@ Naturual Language Processing
 171,Support Vector Machine,Supervised learning models associated with regression and classification.,"Sebastian Raschka, Vahid Mirjalili, Python Machine Learning (Packt 2017)."
 131,Data Mining,Machine learning and statistical methods for extracting information from large amounts of data.,"Ethem Alapaydin, Machine Learning (The MIT Press, 2016)."
 
-Itellectual Property
+x,Itellectual Property,x,x
 
 273,Intellectual Property License,An agreement through which the owner of a product gives a company permission to use the owner’s intellectual property.,"John Palfrey, Intellectual Property Strategy (MIT Press 2012)."
 272,Trademark,"A Trademark protects a wide range of modes like: words, logos, and phrases – distinguishing a product or service and identifying its origin.","John Palfrey, Intellectual Property Strategy (The MIT Press 2012)."
@@ -335,7 +343,7 @@ Itellectual Property
 270,Expressive Work,"Include: literary, musical, dramatic, or architectural.","John Palfrey, Intellectual Property Strategy (The MIT Press 2012)."
 269,Copyright,"Exclusive rights given to the creator of the original expressive work allowing the owner to reproduce, distribute, and sell.","John Palfrey, Intellectual Property Strategy (The MIT Press 2012)."
 
-Networks & Security
+x,Networks & Security,x,x
 
 305,Quantum Cryptogrophy,The art and science of exploiting quantum mechanical effects to perform cryptographic tasks.,"Anne Broadbent, Christian Schaffner, Quantum Cryptogrophy: Beyond Quantum Key Distribution."
 302,Password Guessing Attack,The adversary attempts to identify the password of one or more users by repeatedly testing multiple candidate passwords.,"Hitaj, et. al., PassGAN: A Deep Learning Approach for Password Guessing (2018)."
