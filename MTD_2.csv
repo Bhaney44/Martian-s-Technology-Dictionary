@@ -151,6 +151,9 @@ x,Machine Learning,x,x
 310,Local Robot Control,Produces feasible controls the robot executes to perform the task while both satisfying task constraints and staying near the obstacle-free path.,"Aleksandra Faust, Oscar Ramirez, PRM-RL: Long-range Robotic Navigation Tasks Combining Reinforcement Learning and Sampling-based Planning (2018) https://arxiv.org/abs/1710.03937v2."
 311,Configuration Space,The space of all possible robot configurations.,"Aleksandra Faust, Oscar Ramirez, PRM-RL: Long-range Robotic Navigation Tasks Combining Reinforcement Learning and Sampling-based Planning (2018) https://arxiv.org/abs/1710.03937v2."
 331,Transformer,A process of flowing through sequential states using an encoder and a decoder.,"Ashish Vaswani, et. al., Attention Is All You Need, Google Brain (2017)."
+352,Optimization,The process of discovering a mathmatical structure maximizing a reward function.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
+349,Embodiment,Control of a body via a sensory motor apparatus.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
+351,Mind Uploading,The hypothetical transfer of a mind from its biological origins to a computational system.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 
 x,Physics,x,x
 
@@ -231,6 +234,7 @@ x,Physics,x,x
 336,Green's Function,A central feature of quantum field theory describing correlations in statistical mechanics.,"R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge Press 2017)."
 337,Magnetic Susceptibility,Describes the rate of change of the average magnetization with the applied field.,"R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge Press 2017)."
 338,Perron-Frobenius Theorem,A square matrix with positive non-zero entries will have a non-defenerate largest eigenvalue and a corresponding eigenvector with strictly positive components.,"R. Shankar, Quantum Field Theory and Condensed Matter (Cambridge Press 2017)."
+350,Fermi's Paradox,Earth appears to have never been visited by extraterrestrials despite the fact there has been ample time for any sufficiently advanced civilization to have spread throughout the galaxy.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 
 x,Math,x,x
 
@@ -260,6 +264,7 @@ x,Math,x,x
 322,Law of Cosine,Ratio of opposite site to hypotenuse.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
 323,Law of Cosine,Ration of adjacent side to hypotenuse.,"Roger R. Bate, et. al., Fundamentals of Astrodynamics, United States Air Force Academy (Dover 1971)."
 317,Complex Conjugate,"A number with an equal real part and an imaginary part equal in magnitude, but the imaginary number is opposite in sign. ","Leonard Susskind, Art Friedman, Quantum Mechanics (Basic Books 2014)."
+352,Optimization,The process of discovering a mathmatical structure maximizing a reward function.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 
 x,Computing,x,x
 
@@ -299,6 +304,7 @@ x,Computing,x,x
 19,Method,Behaviors of an object.,"Python, Documentation, Glossary (2018) https://docs.python.org/2/glossary.html#term-parameter."
 18,Parameter,Variables passed to a function.,"Python, Documentation, Glossary (2018) https://docs.python.org/2/glossary.html#term-parameter."
 132,Database,Software for storing and processing digitally represented information efficiently.,"Ethem Alapaydin, Machine Learning (The MIT Press, 2016)."
+348,Computronium,A hypothetical material capable of performing the maximal amount of computation in relation to its massive properties.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 
 x,Computer Vision,x,x
 
@@ -325,6 +331,8 @@ x,Artificial Intelligence,x,x
 21,OpenAI Gym,Toolkit written in python for developing reinforcement learning agents with an interface and a wide variety of environments.,"OpenAI, Gym (2018) https://gym.openai.com/."
 194,Intelligence Explosion,A hypothesized even in which an AI repidly improves from relatively modest to a superhuman level of intelligence.,"Nick Bostrom, Superintelligence: Paths, Dangers, Strategies (Oxford University Press 2017)."
 199,Whole Brain Emulation,Machine intelligence created by copying the computational structure of the human brain.,"Nick Bostrom, Superintelligence: Paths, Dangers, Strategies (Oxford University Press 2017)."
+351,Mind Uploading,The hypothetical transfer of a mind from its biological origins to a computational system.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
+347,Cognitive Enhancement,"The use of technology, like synthetic drugs or computers, to improve human intelligence.","Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 
 x,Naturual Language Processing,x,x
 
