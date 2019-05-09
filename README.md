@@ -1,4 +1,4 @@
-# Martian-s-Technology-Dictionary
+# Martians Technology Dictionary
 
 Summary
 -----------
