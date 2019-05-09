@@ -349,3 +349,4 @@ Numbers,Words,Definitions,Citations
 350,Fermi's Paradox,Earth appears to have never been visited by extraterrestrials despite the fact there has been ample time for any sufficiently advanced civilization to have spread throughout the galaxy.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 351,Mind Uploading,The hypothetical transfer of a mind from its biological origins to a computational system.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 352,Optimization,The process of discovering a mathmatical structure maximizing a reward function.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
+353,Value Iteration,A method of policy improvement where the algorithm works toward the optimal policy keeping tables of estimated function values.,"Eugene Charniak, Introduction to Deep Learning (MIT Press 2018)."

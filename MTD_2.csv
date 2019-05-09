@@ -155,6 +155,7 @@ x,Machine Learning,x,x
 352,Optimization,The process of discovering a mathmatical structure maximizing a reward function.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 349,Embodiment,Control of a body via a sensory motor apparatus.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
 351,Mind Uploading,The hypothetical transfer of a mind from its biological origins to a computational system.,"Murray Shanahan, The Technological Singularity (MIT Press 2015)."
+353,Value Iteration,A method of policy improvement where the algorithm works toward the optimal policy keeping tables of estimated function values.,"Eugene Charniak, Introduction to Deep Learning (MIT Press 2018)."
 
 x,Physics,x,x
 
